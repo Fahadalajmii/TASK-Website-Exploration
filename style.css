@@ -1,7 +1,7 @@
 body {
-  color: white; /*This indicates the font color. Change this, and it will change initially*/
+  color: rgb(12, 11, 11); /*This indicates the font color. Change this, and it will change initially*/
 
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  background: linear-gradient(-45deg, #526fee, #e73ccb, #23a6d5, #23d55e);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
   height: 100vh;
@@ -13,6 +13,7 @@ body {
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   padding: 60px;
   text-align: center;
+  
 }
 
 ol {
